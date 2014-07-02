@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-networkconditioner
+Exec=harbour-networkconditioner
+Name=harbour-networkconditioner
+# translation example:
+# your app name in German locale (de)
+Name[de]=harbour-networkconditioner
+
